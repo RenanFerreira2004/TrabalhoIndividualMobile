@@ -21,11 +21,11 @@ O desafio foi simples, mas ao mesmo tempo complexo: escolher um aplicativo, clon
 
 Abaixo está a imagem original da tela que foi clonada do *Calm*. 
 
-![Modelo Original]()
+![Modelo Original](trabalho_individual_react_native/trabalho_individual/assets/mercado-livre-app-iphone-1.jpg)
 
 E aqui o modelo desenvolvido por mim. Não deixe de conferir o design da interface e como ela foi recriada!
 
-![Modelo Clonado]()
+![Modelo Clonado](trabalho_individual_react_native/trabalho_individual/assets/Capturadetela20241124172927.png)
 
 
 ## Agradecimentos
